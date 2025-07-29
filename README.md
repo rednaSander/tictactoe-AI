@@ -101,11 +101,11 @@ This project illustrates key AI concepts:
 
 | Algorithm | 3×3 Performance | 4×4 Performance | 5×5+ Performance |
 |-----------|----------------|----------------|------------------|
-| Rule-Based | Perfect | Good | Moderate |
-| Minimax V0 | Perfect | Limited depth | Too slow |
-| Minimax V2 | Perfect | Strong | Limited |
-| Minimax V4 | Perfect | Very strong | Good |
-| MCTS | Perfect | Near-perfect | very strong |
+| Rule-Based | Perfect | Poor | very Poor |
+| Minimax V0 | Perfect | Very strong | Strong |
+| Minimax V2 | Perfect | Very strong | Very strong |
+| Minimax V4 | Perfect | Very strong | Very strong |
+| MCTS | Perfect | Near-perfect | Near-perfect |
 
 ## 🎥 Video Tutorial
 
